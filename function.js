@@ -1,4 +1,4 @@
-console.log("loggg");
+console.log("functions in js");
 function add(a,b){
     console.log(a+b);
 }
@@ -20,3 +20,18 @@ let result =mul(2,2);
 console.log(result);
 
 console.log("pull checked");
+
+// example 3
+function namee() {
+    console.log("hello");
+}
+
+namee();
+
+// example 4
+function greet(){
+    return "good morning";
+}
+
+let msg = greet();
+console.log(msg);
