@@ -35,3 +35,12 @@ function greet(){
 
 let msg = greet();
 console.log(msg);
+
+//example 5
+function login(u){
+ return `${u} loggned in`
+}
+
+ console.log(login("darshan"));
+
+ 
