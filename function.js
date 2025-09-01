@@ -18,3 +18,5 @@ function mul(m,n){
 
 let result =mul(2,2);
 console.log(result);
+
+console.log("pull checked");
