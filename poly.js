@@ -21,3 +21,5 @@ class Dog extends Animal{
 
 let a1 = new Dog("tommy");
 a1.eats();
+
+console.log("pull request");
